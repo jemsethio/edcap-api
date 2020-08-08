@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/jemsethio/edacap-api/config"
-	"github.com/jemsethio/weather-api/controller"
+	"github.com/jemsethio/edacap-api/controller"
 	v2 "github.com/jemsethio/edacap-api/controller/v2"
 )
 
