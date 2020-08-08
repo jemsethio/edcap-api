@@ -1,4 +1,4 @@
-# weather-api
+# EDACaP API for Wheather forecast
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](/LICENSE)
 [![Build Status](https://travis-ci.org/robertoduessmann/weather-api.svg?branch=master)](https://travis-ci.org/robertoduessmann/weather-api)
@@ -7,8 +7,8 @@
 
 > A REST API to check the current weather.
 
-> https://goweather.herokuapp.com/weather/Curitiba<br />
-https://goweather.herokuapp.com/weather/{city}
+> https://edcap-api.herokuapp.com/weather/Curitiba<br />
+https://edcap-api.herokuapp.com/weather/{city}
 
 ## Build
 ```sh
